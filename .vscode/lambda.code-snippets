@@ -1,0 +1,33 @@
+{
+	"lambda calculus": {
+		"prefix": "lc",
+		"body": [
+			"λ 演算法",
+		],
+		"description": "CN name of lambda calculus."
+	},
+	"javascript": {
+		"prefix": "js",
+		"body": [
+			"_Javascript_",
+		],
+		"description": "styled Javascript Name"
+	},
+	"variable": {
+		"prefix": "var",
+		"body": [
+			" `$1` $0",
+		],
+		"description": "code block for variable"
+	},
+	"code javascript": {
+		"prefix": "jscode",
+		"body": [
+			"```javascript",
+			"$1",
+			"```",
+			"$0"
+		],
+		"description": "code block for Javascript"
+	},
+}
